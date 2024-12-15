@@ -1,0 +1,87 @@
+body{
+  margin: 0px;
+}
+main{
+  margin: 20px;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+.navbar ul:hover{
+  background-color: red;
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  font-size: 10px;
+}
+.navbar a:hover{
+  background-color: lightgray;
+  color: #22176F;
+  font-family: serif;
+  font-weight: solid;
+  
+}
+.navbar li{
+  float: left;
+}
+    body {
+  background-image: url("https://img.goodfon.com/wallpaper/big/7/1c/abstaktsiia-fioletovoe-fon-linii-sinii-chernyi.webp");
+  background-size: 394px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-attachment: fixed;
+  font-size: 15pt;
+  background-size: 500% 100%;
+}
+img{
+  height: 40px;
+  width: 40px;
+}
+marquee {
+  color: white;
+  font-family: fantasy;
+  font-size: 15px;
+  background-color: rgb(0, 20, 50);
+}
+#fixed {
+  position: fixed;
+}
+   h3, h4{
+  font-family: serif;
+  text-align: center;
+  text-shadow: 3px 1px gray;
+  font-weight: solid;
+  color: white;
+  background-color: rgb(0, 20, 50);
+}
+h4:hover{
+  color: red;
+}
+p, ul{
+  color: white;
+  font-size: 15px;
+  font-family: serif;
+}
+a{
+  text-decoration: none;
+  color: yellow;
+  font-weight: solid;
+  font-size: 10px;
+  font-family: serif;
+}
+a:hover{
+  color: red;
+}
+#bgc{
+  background-color: rgb(0, 20, 50);
+}
